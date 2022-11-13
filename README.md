@@ -6,8 +6,6 @@ Development of a clean architecture study with Branas
 
 simple application with all the rules of the list and api consumption, to exemplify all the concepts of the study
 
-
-
 ## Technology used
 - vue composition api
 - vitest
@@ -17,3 +15,13 @@ simple application with all the rules of the list and api consumption, to exempl
 - express
 
 The goal is to build better code
+
+## Starting application
+- accessing the frontend ``` cd escanor ```
+- install packages ``` yarn  ```
+- run frontend ``` yarn dev ```
+- accessing the backend ``` cd merlin  ```
+- install packages ``` yarn  ```
+- run backend  ``` yarn serve ```
+
+Enjoy!
