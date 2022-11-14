@@ -1,4 +1,4 @@
-# Ports and Adapters, Clean Architecture e Design Patterns no Frontend
+# Ports and Adapters, Clean Architecture and Design Patterns in Frontend
 Development of a clean architecture study with Branas
 ## System example with todolist
 
